@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Desktop\MicroservicesAPIGateway\Services\ContactAPI\Contact.API.Services\bin\Debug\net5.0\Contact.API.Services.deps.json
+C:\Users\Lenovo\Desktop\MicroservicesAPIGateway\Services\ContactAPI\Contact.API.Services\bin\Debug\net5.0\Contact.API.Services.dll
+C:\Users\Lenovo\Desktop\MicroservicesAPIGateway\Services\ContactAPI\Contact.API.Services\bin\Debug\net5.0\Contact.API.Services.pdb
+C:\Users\Lenovo\Desktop\MicroservicesAPIGateway\Services\ContactAPI\Contact.API.Services\bin\Debug\net5.0\Contact.API.Infrastructure.dll
+C:\Users\Lenovo\Desktop\MicroservicesAPIGateway\Services\ContactAPI\Contact.API.Services\bin\Debug\net5.0\Contact.API.Models.dll
+C:\Users\Lenovo\Desktop\MicroservicesAPIGateway\Services\ContactAPI\Contact.API.Services\bin\Debug\net5.0\Contact.API.Infrastructure.pdb
+C:\Users\Lenovo\Desktop\MicroservicesAPIGateway\Services\ContactAPI\Contact.API.Services\bin\Debug\net5.0\Contact.API.Models.pdb
+C:\Users\Lenovo\Desktop\MicroservicesAPIGateway\Services\ContactAPI\Contact.API.Services\obj\Debug\net5.0\Contact.API.Services.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MicroservicesAPIGateway\Services\ContactAPI\Contact.API.Services\obj\Debug\net5.0\Contact.API.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MicroservicesAPIGateway\Services\ContactAPI\Contact.API.Services\obj\Debug\net5.0\Contact.API.Services.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MicroservicesAPIGateway\Services\ContactAPI\Contact.API.Services\obj\Debug\net5.0\Contact.API.Services.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MicroservicesAPIGateway\Services\ContactAPI\Contact.API.Services\obj\Debug\net5.0\Contact.API.Services.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MicroservicesAPIGateway\Services\ContactAPI\Contact.API.Services\obj\Debug\net5.0\Contact.API.Services.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\MicroservicesAPIGateway\Services\ContactAPI\Contact.API.Services\obj\Debug\net5.0\Contact.API.Services.dll
+C:\Users\Lenovo\Desktop\MicroservicesAPIGateway\Services\ContactAPI\Contact.API.Services\obj\Debug\net5.0\refint\Contact.API.Services.dll
+C:\Users\Lenovo\Desktop\MicroservicesAPIGateway\Services\ContactAPI\Contact.API.Services\obj\Debug\net5.0\Contact.API.Services.pdb
+C:\Users\Lenovo\Desktop\MicroservicesAPIGateway\Services\ContactAPI\Contact.API.Services\obj\Debug\net5.0\ref\Contact.API.Services.dll

@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Desktop\MicroservicesAPIGateway\Services\ResAPI\Reservation.API.Models\bin\Debug\net5.0\Reservation.API.Models.deps.json
+C:\Users\Lenovo\Desktop\MicroservicesAPIGateway\Services\ResAPI\Reservation.API.Models\bin\Debug\net5.0\Reservation.API.Models.dll
+C:\Users\Lenovo\Desktop\MicroservicesAPIGateway\Services\ResAPI\Reservation.API.Models\bin\Debug\net5.0\Reservation.API.Models.pdb
+C:\Users\Lenovo\Desktop\MicroservicesAPIGateway\Services\ResAPI\Reservation.API.Models\obj\Debug\net5.0\Reservation.API.Models.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MicroservicesAPIGateway\Services\ResAPI\Reservation.API.Models\obj\Debug\net5.0\Reservation.API.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\MicroservicesAPIGateway\Services\ResAPI\Reservation.API.Models\obj\Debug\net5.0\Reservation.API.Models.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MicroservicesAPIGateway\Services\ResAPI\Reservation.API.Models\obj\Debug\net5.0\Reservation.API.Models.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MicroservicesAPIGateway\Services\ResAPI\Reservation.API.Models\obj\Debug\net5.0\Reservation.API.Models.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MicroservicesAPIGateway\Services\ResAPI\Reservation.API.Models\obj\Debug\net5.0\Reservation.API.Models.dll
+C:\Users\Lenovo\Desktop\MicroservicesAPIGateway\Services\ResAPI\Reservation.API.Models\obj\Debug\net5.0\refint\Reservation.API.Models.dll
+C:\Users\Lenovo\Desktop\MicroservicesAPIGateway\Services\ResAPI\Reservation.API.Models\obj\Debug\net5.0\Reservation.API.Models.pdb
+C:\Users\Lenovo\Desktop\MicroservicesAPIGateway\Services\ResAPI\Reservation.API.Models\obj\Debug\net5.0\ref\Reservation.API.Models.dll
